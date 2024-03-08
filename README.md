@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Web Project
 - 📫 How to reach me : jelasrudy@gmail.com
 - 😄 Pronouns: Rudy
-- ⚡ Fun fact: ...
 
 <!---
 rudyunyu/rudyunyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
